@@ -33,8 +33,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-000000.svg?style=for-the-badge&logo=prezi&logoColor=white)
-
-# 🎮 Frameworks & Game Engines
 ![LÖVE2D](https://img.shields.io/badge/LÖVE2D-EA316E.svg?style=for-the-badge&logo=love&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
