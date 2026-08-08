@@ -38,17 +38,20 @@
 ![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jasmine001&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jasmine001&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jasmine001&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jasmine001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Jasminee01&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Jasminee01&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jasminee01&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=jasmine001&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 
 
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
