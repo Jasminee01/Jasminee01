@@ -47,6 +47,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=jasmine001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=jasmine001&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=jasmine001&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
