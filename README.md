@@ -1,12 +1,12 @@
-# 💫 About Me:
-👩🏻‍💻I am currently working on finishing my final year <br>🧮 I am looking to collaborate on any Game dev Projects <br>🔒I am looking for help with learning more about cybersecurity <br>🌱I am learning about basic concurrent TCP port scanners<br>💬 Ask me about optimisation <br>⚡️Fun fact - I love to play games 
+# About Me
+👩🏻‍💻 I am currently working on finishing my final year <br> I am looking to collaborate on any Game dev Projects <br> I am looking for help with learning more about cybersecurity <br> I am learning about basic concurrent TCP port scanners<br> Ask me about optimisation <br> Fun fact - I love to play games 
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Juhi_studys) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juhisewchurran/) 
 
-# 💻 Tech Stack:
+## Tech Stack:
 
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,7 +39,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=Jasminee01&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Jasminee01&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jasminee01&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
